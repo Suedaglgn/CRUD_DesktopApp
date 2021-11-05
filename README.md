@@ -25,4 +25,4 @@ CRUD desktop application for teacher (student and grade information)
 ![filter_students](img/db_filter.JPG)
 
 ### Filtering Grades
-![filter_grades](img/lecture_filter.JPG)
+![filter_grades](img/db_lecture_filter.JPG)
